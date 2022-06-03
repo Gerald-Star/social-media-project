@@ -1,56 +1,61 @@
 export const Users = [
   {
-    id:1,
+    id: 1,
     profilePicture: "../images/chima.jpeg",
     username: "Chima",
   },
   {
-    id:2,
+    id: 2,
     profilePicture: "../images/ben-parker.jpg",
     username: "Ben Parker",
   },
   {
-    id:3,
+    id: 3,
     profilePicture: "../images/jurica-koletic.jpg",
     username: "Jurica Koletic",
   },
   {
-    id:4,
+    id: 4,
     profilePicture: "../images/may-gauthier.jpg",
     username: "May Gauthier",
   },
   {
-    id:5,
+    id: 5,
     profilePicture: "../images/may-gauthier.jpg",
     username: "May Gauthier",
   },
   {
-    id:6,
+    id: 6,
     profilePicture: "../images/may-gauthier.jpg",
     username: "May Gauthier",
   },
   {
-    id:7,
+    id: 7,
     profilePicture: "../images/joseph-gonzalez.jpg",
     username: "Joseph Gonzalez",
   },
   {
-    id:8,
+    id: 8,
     profilePicture: "../images/michael-dam.jpg",
     username: "Michael Dam",
   },
   {
-    id:9,
+    id: 9,
     profilePicture: "../images/Toa-heftiba.jpg",
     username: "Toa Heftiba",
   },
   {
-    id:10,
+    id: 10,
     profilePicture: "../images/jurica-koletic.jpg",
     username: "Juric Koletic",
   },
 ];
+// ! like should be an array of userIds (like: [9, 5, 4])
 
+// ! comment should be a separate variable (collection) containing more informations (i.e text, date, userId)
+
+// ! date should be an actual date (Fri Jun 03 2022 10:58:42 GMT+0200)
+// ! and then you can calculate 5 mins ago by changing the date in ms (i.e 1519211809934 ms since January 1, 1970 00:00:00 UTC) and subtracting it to Date.now()
 export const Posts = [
   {
     id: 1,
