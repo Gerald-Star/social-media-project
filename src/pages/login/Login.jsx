@@ -5,9 +5,9 @@ export default function Login() {
         <div className="login">
             <div className="loginWrapper">
                 <div className="loginLeft">
-                    <h3 className="loginLogo">PenPalsocial</h3>
+                    <h3 className="loginLogo">Gosocial</h3>
                     <span className="loginDesc">
-                        Connect with friends and the world around you on Lamasocial.
+                        Connect with friends around the world by sharing your most admirable tourists sights.
                     </span>
                 </div>
                 <div className="loginRight">

@@ -45,23 +45,23 @@ export default function Rightbar({ profile }) {
         <div className="rightbarFollowings">
           <div className="rightbarFollowing">
             <img
-              src="assets/profile pictures/ben-parker.jpg"
-              alt=""
+              src="../images/ben-parker.jpg"
+              alt="Ben Parker"
               className="rightbarFollowingImg"
             />
             <span className="rightbarFollowingName">Ben Parker</span>
           </div>
           <div className="rightbarFollowing">
             <img
-              src="assets/profile pictures/joseph-gonzalez.jpg"
-              alt=""
+              src="../images/joseph-gonzalez.jpg"
+              alt="Joseph Gonzalez"
               className="rightbarFollowingImg"
             />
             <span className="rightbarFollowingName">Joseph Gonzalez</span>
           </div>
           <div className="rightbarFollowing">
             <img
-              src="assets/profile pictures/jurica-koletic.jpg"
+              src="../images/jurica-koletic.jpg"
               alt=""
               className="rightbarFollowingImg"
             />
@@ -70,7 +70,7 @@ export default function Rightbar({ profile }) {
                 
           <div className="rightbarFollowing">
             <img
-              src="assets/profile pictures/may-gauthier.jpg"
+              src="../images/may-gauthier.jpg"
               alt=""
               className="rightbarFollowingImg"
             />
@@ -78,7 +78,7 @@ export default function Rightbar({ profile }) {
           </div>
           <div className="rightbarFollowing">
             <img
-              src="assets/profile pictures/michael-dam.jpg"
+              src="../images/michael-dam.jpg"
               alt=""
               className="rightbarFollowingImg"
             />
@@ -86,7 +86,7 @@ export default function Rightbar({ profile }) {
           </div>
           <div className="rightbarFollowing">
             <img
-              src="assets/profile pictures/toa-heftiba.jpg"
+              src="../images/toa-heftiba.jpg"
               alt=""
               className="rightbarFollowingImg"
             />

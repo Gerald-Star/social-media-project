@@ -1,53 +1,53 @@
 export const Users = [
   {
     id:1,
-    profilePicture: "assets/profile picture/ben-parker.jpg",
-    username: "Safak Kocaoglu",
+    profilePicture: "../images/chima.jpeg",
+    username: "Chima",
   },
   {
     id:2,
-    profilePicture: "assets/profile picture/joseph-gonzalez.jpg",
-    username: "Janell Shrum",
+    profilePicture: "../images/ben-parker.jpg",
+    username: "Ben Parker",
   },
   {
     id:3,
-    profilePicture: "assets/profile picture/jurica-koletic.jpg",
-    username: "Alex Durden",
+    profilePicture: "../images/jurica-koletic.jpg",
+    username: "Jurica Koletic",
   },
   {
     id:4,
-    profilePicture: "assets/profile picture/may-gauthier.jpg",
-    username: "Dora Hawks",
+    profilePicture: "../images/may-gauthier.jpg",
+    username: "May Gauthier",
   },
   {
     id:5,
-    profilePicture: "assets/profile picture/may-gauthier.jpg",
-    username: "Thomas Holden",
+    profilePicture: "../images/may-gauthier.jpg",
+    username: "May Gauthier",
   },
   {
     id:6,
-    profilePicture: "assets/profile picture/may-gauthier.jpg",
-    username: "Shirley Beauchamp",
+    profilePicture: "../images/may-gauthier.jpg",
+    username: "May Gauthier",
   },
   {
     id:7,
-    profilePicture: "assets/profile picture/may-gauthier.jpg",
-    username: "Travis Bennett",
+    profilePicture: "../images/joseph-gonzalez.jpg",
+    username: "Joseph Gonzalez",
   },
   {
     id:8,
-    profilePicture: "assets/profile picture/may-gauthier.jpg",
-    username: "Kristen Thomas",
+    profilePicture: "../images/michael-dam.jpg",
+    username: "Michael Dam",
   },
   {
     id:9,
-    profilePicture: "assets/profile picture/may-gauthier.jpg",
-    username: "Gary Duty",
+    profilePicture: "../images/Toa-heftiba.jpg",
+    username: "Toa Heftiba",
   },
   {
     id:10,
-    profilePicture: "assets/profile pictures/may-gauthier.jpg",
-    username: "Safak Kocaoglu",
+    profilePicture: "../images/jurica-koletic.jpg",
+    username: "Juric Koletic",
   },
 ];
 
@@ -55,7 +55,7 @@ export const Posts = [
   {
     id: 1,
     desc: "Love For All, Hatred For None.",
-    photo: "assets/images/Berlin.jpg",
+    photo: "../images/Berlin.jpg",
     date: "5 mins ago",
     userId: 1,
     like: 32,
@@ -63,7 +63,7 @@ export const Posts = [
   },
   {
     id: 2,
-    photo: "assets/images/Indonesia.jpg",
+    photo: "../images/Indonesia.jpg",
     date: "15 mins ago",
     userId: 2,
     like: 2,
@@ -72,7 +72,7 @@ export const Posts = [
   {
     id: 3,
     desc: "Every moment is a fresh beginning.",
-    photo: "assets/images/Italy.jpg",
+    photo: "../images/Italy.jpg",
     date: "1 hour ago",
     userId: 3,
     like: 61,
@@ -80,7 +80,7 @@ export const Posts = [
   },
   {
     id: 4,
-    photo: "assets/images/Maldives.jpg",
+    photo: "../images/Maldives.jpg",
     date: "4 hours ago",
     userId: 4,
     like: 7,
@@ -88,7 +88,7 @@ export const Posts = [
   },
   {
     id: 5,
-    photo: "assets/images/Mauritius",
+    photo: "../images/Mauritius",
     date: "5 hours ago",
     userId: 5,
     like: 23,
@@ -96,7 +96,7 @@ export const Posts = [
   },
   {
     id: 6,
-    photo: "assets/images/Singapore.jpg",
+    photo: "../images/Singapore.jpg",
     date: "1 day ago",
     userId: 6,
     like: 44,
@@ -105,7 +105,7 @@ export const Posts = [
   {
     id: 7,
     desc: "Never regret anything that made you smile.",
-    photo: "assets/images/Spain.jpg",
+    photo: "../images/Spain.jpg",
     date: "2 days ago",
     userId: 7,
     like: 52,
@@ -113,7 +113,7 @@ export const Posts = [
   },
   {
     id: 8,
-    photo: "assets/images/Taiwan.jpg",
+    photo: "../images/Taiwan.jpg",
     date: "3 days ago",
     userId: 8,
     like: 15,
@@ -122,7 +122,7 @@ export const Posts = [
   {
     id: 9,
     desc: "Change the world by being yourself.",
-    photo: "assets/images/Berlin.jpg",
+    photo: "../images/Berlin.jpg",
     date: "5 days ago",
     userId: 9,
     like: 11,
@@ -130,7 +130,7 @@ export const Posts = [
   },
   {
     id: 10,
-    photo: "assets/post/Berlin",
+    photo: "../images/Berlin.jpg",
     date: "1 week ago",
     userId: 10,
     like: 104,
