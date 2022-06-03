@@ -71,7 +71,7 @@ export const Posts = [
   },
   {
     id: 3,
-    desc: "Every moment is a fresh beginning.",
+    desc: "Every moment is a fresh beginning-Italy.",
     photo: "../images/Italy.jpg",
     date: "1 hour ago",
     userId: 3,
@@ -80,7 +80,8 @@ export const Posts = [
   },
   {
     id: 4,
-    photo: "../images/Maldives.jpg",
+    desc: "Enjoying the nature in-Maldive.",
+    photo: "../images/Maldive.jpg",
     date: "4 hours ago",
     userId: 4,
     like: 7,
@@ -88,7 +89,8 @@ export const Posts = [
   },
   {
     id: 5,
-    photo: "../images/Mauritius",
+    desc: "Experience the beauty of nature-Mauritius.",
+    photo: "../images/Mauritius.jpg",
     date: "5 hours ago",
     userId: 5,
     like: 23,
@@ -96,6 +98,7 @@ export const Posts = [
   },
   {
     id: 6,
+    desc: "The blissful nature of-Singapore.",
     photo: "../images/Singapore.jpg",
     date: "1 day ago",
     userId: 6,
@@ -104,7 +107,7 @@ export const Posts = [
   },
   {
     id: 7,
-    desc: "Never regret anything that made you smile.",
+    desc: "Never regret anything that made you smile-Spain.",
     photo: "../images/Spain.jpg",
     date: "2 days ago",
     userId: 7,
@@ -113,6 +116,7 @@ export const Posts = [
   },
   {
     id: 8,
+    desc: "The heart of Aisa-Taiwan.",
     photo: "../images/Taiwan.jpg",
     date: "3 days ago",
     userId: 8,
@@ -121,7 +125,7 @@ export const Posts = [
   },
   {
     id: 9,
-    desc: "Change the world by being yourself.",
+    desc: "Change the world by enjoying yourself-Berlin.",
     photo: "../images/Berlin.jpg",
     date: "5 days ago",
     userId: 9,
@@ -130,6 +134,7 @@ export const Posts = [
   },
   {
     id: 10,
+    desc: "The city of love-Berlin.",
     photo: "../images/Berlin.jpg",
     date: "1 week ago",
     userId: 10,
